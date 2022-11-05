@@ -11,6 +11,19 @@ Shared under the [United States Copyright Office Compendium chapter 313.4(F)](ht
 # Table of Contents
 
 - [BUY ME A COFFEE](#buy-me-a-coffee)
+- [But first...](#but-first)
+- [Recipes](#recipes)
+- [Larder](#larder)
+  - [blends & salts](#blends--salts)
+  - [condiments](#condiments)
+  - [dairy](#dairy)
+  - [dough](#dough)
+  - [dried](#dried)
+  - [fermented](#fermented)
+  - [nuts](#nuts)
+  - [pickled](#pickled)
+  - [stocks, sauces & confits](#stocks-sauces--confits)
+  
 ---
 
 # BUY ME A COFFEE
@@ -27,7 +40,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 # But first...
 
-* ...a grilled cheese sandwich
+* [...a grilled cheese sandwich](https://github.com/EanNewton/on-vegetables/blob/main/A%20grilled%20cheese%20sandwich.md)
 
 # Recipes
 
@@ -38,34 +51,34 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * chilled asparagus, saffron, olive & fennel pollen
 * asparagus vichyssoise, black garlic mustard & potato
 * poached asparagus a la flamande
-* bananas, creme fraiche, honey & curry cashews
+* [bananas, creme fraiche, honey & curry cashews](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Bananas%2C%20creme%20faiche%2C%20honey%20%26%20curry%20cashews.md)
 * lima bean & sorrel cacio e pepe
 * rustic yellow eye bean stew, torn bread
-* gold beets, nectarine, hazelnut & oregano
+* [gold beets, nectarine, hazelnut & oregano](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/gold%20beets%2C%20nectarine%2C%20hazelnut%20%26%20oregano.md)
 * beet gazpacho, mustard, cherries & almond
 * beets & berries
 * beets, greens, figs, blue cheese & walnuts
 * spaetzle, blueberry sauce & corn pudding
 * borage & ricotta dumplings mushroom broth
-* brassicas a la catalan
+* [brassicas a la catalan](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/brassicas%20a%20la%20catalan.md)
 * bread au chocolat
-* simple broccoli di cicco, garlic, lemon & burrata
+* [simple broccoli di cicco, garlic, lemon & burrata](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Simple%20broccoli%20di%20cicco%2C%20garlic%2C%20lemon%20%26%20burrata.md)
 * charred whole broccoli with miso bagna cauda
-* purple haze carrots, yogurt & sumac
+* [purple haze carrots, yogurt & sumac](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/purple%20haze%20carrots%2C%20yogurt%20%26%20sumac.md)
 * tandoori carrots, labneh & vadouvan
 * carrot juice cavatelli, tops salsa & spiced pulp crumble
 * cauliflower in a cast-iron pot
 * chickpeas in broth, lots of olive oil & black pepper pan con tomate
 * chickpea panisse, celery, olive & manchego
 * corn polenta, curds, whey & strawberry sofrito
-* creamed corn, fig jam & dried vanilla pod
+* [creamed corn, fig jam & dried vanilla pod](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/creamed%20corn%2C%20fig%20jam%2C%20%26%20dried%20vanilla%20pod.md)
 * vegan 4x corn polenta
 * grilled corn on the cob, calabrian chili butter & ash salt
 * crosnes, brown butter & sage
 * cucumber, potato, olive, pine nut & parmesan
 * cucumbers with green goddess
 * daikon piccata, lemon butter & nasturtium capers
-* daikon braised in orange juice
+* [daikon braised in orange juice](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/daikon%20braised%20in%20orange%20juice.md)
 * eggplant, tahini, honey & caper
 * whole roasted young favas with their pesto & pistachio
 * pane frattau: fennel, strawberry sofrito, carta da musica & egg
@@ -85,13 +98,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * nasturtium dolmas, black rice & sesame
 * vanilla ice cream with nasturtium flower
 * oca crudo, persimmon, citrus & avocado
-* olives marinated with garlic, fennel & orange
+* [olives marinated with garlic, fennel & orange](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/olives%20marinated%20with%20garlic%2C%20fennel%20%26%20orange.md)
 * french onion soup
-* spring onions, roasted in their skins with ash honey
+* [spring onions, roasted in their skins with ash honey](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Spring%20onions%2C%20roasted%20in%20their%20skins%20with%20ash%20honey.md)
 * plöppenschmëar: parsnip cream, meringue & citrus
 * peas & pecorino
 * peas & pecorino, version 2.0
-* peas, white chocolate & macadamia
+* [peas, white chocolate & macadamia](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/peas%2C%20white%20chocolate%20%26%20macadamia.md)
 * peas, white chocolate & macadamia... sweet version
 * risi e bisi, pea husk puree, wild rice & herbs
 * smoked split pea shell & carrot soup
