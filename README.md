@@ -120,7 +120,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * rhubarb, ricotta & radish toast
 * shaved squash, basil & pine nut
 * butternut squash & ricotta mousse, spiced bread
-* strawberry pavlova, yogurt & black pepper
+* [strawberry pavlova, yogurt & black pepper](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/strawberry%20pavlova%2C%20yogurt%20%26%20black%20pepper.md)
 * crispy sunchokes, burrata, grapefruit & fennel
 * cream of sunchoke soup, persimmon red-eye gravy
 * tomato raw bar
@@ -150,7 +150,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * black olive caramel
 * brittany's pepper jam
 * carrot puree
-* fig, pepper skin & riesling jam
+* [fig, pepper skin & riesling jam](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/fig%2C%20pepper%20skin%20%26%20riesling%20jam.md)
 * mayonnaise
 * miso bagna cauda
 * salsa verde
@@ -173,7 +173,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * fresh ricotta & whey
 * vadouvan butter
 * whipped ricotta
-* yogurt and labneh
+* [yogurt and labneh](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/yogurt%20and%20labneh.md)
 
 ## dough
 
@@ -208,7 +208,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * curry cashews
 * frosted nuts
 * lavender almonds
-* pine nut pudding
+* [pine nut pudding](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/pine%20nut%20pudding.md)
 
 ## pickled
 
@@ -223,11 +223,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## stocks, sauces & confits
 
-* roasted peppers and pepper tears
-* corn cob stock
+* [roasted peppers and pepper tears](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/Roasted%20Peppers%20%26%20Pepper%20Tears.md)
+* [corn cob stock](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/corn%20cob%20stock.md)
 * caramelized onion stock
 * mushroom stock
-* pea shell stock
+* [pea shell stock](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/pea%20shell%20stock.md)
 * vegetable stock
 * garlic confit
 * garlic confit puree
