@@ -44,15 +44,15 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 # Recipes
 
-* avocado toast
-* creamy artichoke & ramp toast
-* baby artichoke fritto with black garlic aioli
-* grilled artichoke, celery, meyer lemon & olive
-* chilled asparagus, saffron, olive & fennel pollen
-* asparagus vichyssoise, black garlic mustard & potato
-* poached asparagus a la flamande
+* [avocado toast](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/avocado%20toast.md)
+* [creamy artichoke & ramp toast](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/creamy%20artichoke%20%26%20ramp%20toast.md)
+* [baby artichoke fritto with black garlic aioli](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/baby%20artichoke%20fritto%20with%20black%20garlic%20aioli.md)
+* [grilled artichoke, celery, meyer lemon & olive](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/grilled%20artichoke%2C%20celery%2C%20meyer%20lemon%20%26%20olive.md)
+* [chilled asparagus, saffron, olive & fennel pollen](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/chilled%20asparagus%2C%20saffron%2C%20olive%20%26%20fennel%20pollen.md)
+* [asparagus vichyssoise, black garlic mustard & potato](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/asparagus%20vichyssoise%2C%20black%20garlic%20mustard%20%26%20potato.md)
+* [poached asparagus a la flamande](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/poached%20asparagus%20a%20la%20flamande.md)
 * [bananas, creme fraiche, honey & curry cashews](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Bananas%2C%20creme%20faiche%2C%20honey%20%26%20curry%20cashews.md)
-* lima bean & sorrel cacio e pepe
+* [lima bean & sorrel cacio e pepe](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/lima%20bean%20%26%20sorrel%20cacio%20e%20pepe.md)
 * rustic yellow eye bean stew, torn bread
 * [gold beets, nectarine, hazelnut & oregano](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/gold%20beets%2C%20nectarine%2C%20hazelnut%20%26%20oregano.md)
 * beet gazpacho, mustard, cherries & almond
