@@ -27,7 +27,7 @@
 
 ### yogurt cream
 * 1/2 cup (120 ml) heavy cream
-* 1 cup (240 ml) yogurt (see: 281)
+* 1 cup (240 ml) [yogurt](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/yogurt%20and%20labneh.md) 
 
 
 ---

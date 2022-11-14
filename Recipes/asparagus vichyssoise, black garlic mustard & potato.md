@@ -12,7 +12,7 @@
 * kosher salt
 * 2 lb asparagus, preferably pencil-thin, cut into 1/2 inch pieces
 * 2 garlic cloves, germ removed, finely grated
-* 5 cups Pea Shell Stock (see: 311)
+* 5 cups [Pea Shell Stock](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/pea%20shell%20stock.md)
 * 4 ounces shelled English peas, from about 9 ounces pea pods
 * 1/4 cup heavy cream
 * 4 tbsp chopped cilantro, leaves and stems

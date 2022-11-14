@@ -13,7 +13,7 @@
 * 1 generous tbsp chopped garlic (germ removed), plus 1 tbsp thinly sliced garlic (germ intact)
 * kosher salt
 * 4 tbsp Horsey Goat (see: 279)
-* 2 tbsp Whole-Grain Mustard (see: 272)
+* 2 tbsp [Whole-Grain Mustard](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/whole-grain%20mustard.md)
 * 1 tbsp evoo
 * 14 Bing cherries, pitted and halved
 * 1 tbsp chopped toasted almonds

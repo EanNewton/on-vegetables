@@ -6,12 +6,12 @@
 
 ### creamed corn
 * 4 cups corn kernels
-* 2 cups Corn Cob Stock (see: )
+* 2 cups [Corn Cob Stock](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/corn%20cob%20stock.md)
 * salt
 
 ### to serve
 * 1 scraped vanilla pod
-* 4 tbsp Fig, Pepper Skin & Riesling Jam (see: )
+* 4 tbsp [Fig, Pepper Skin & Riesling Jam](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/fig%2C%20pepper%20skin%20%26%20riesling%20jam.md) 
 
 ---
 

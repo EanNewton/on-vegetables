@@ -7,7 +7,7 @@
 * 2 lb shucked peas
 * 2 tbsp evoo
 * 2 tsp fresh lemon juice
-* 3/4 cup Pea Shell Stock (see: ), chilled
+* 3/4 cup [Pea Shell Stock](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/pea%20shell%20stock.md), chilled
 * 1 tbsp champagne vinegar
 * 3 tbsp chopped white chocolate
 * 3 tbsp chopped and toasted macadamia nuts

@@ -7,11 +7,11 @@
 * 1 lb florets from assorted brassicas, specifically broccoli and cauliflower, such as Romanesco, or any other cool types you can find
 * 2 tbsp evoo
 * salt
-* 1/4 cup pine nut pudding (see: )
+* 1/4 cup [pine nut pudding](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/pine%20nut%20pudding.md)
 * 2 tbsp golden raisins
 * 1 tbsp toasted pine nuts
 * 20 small peppermint leaves
-* 1/2 cup pepper tears (see: ), at room temp
+* 1/2 cup [pepper tears](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Stocks%2C%20Sauces%2C%20%26%20Confits/Roasted%20Peppers%20%26%20Pepper%20Tears.md), at room temp
 
 ---
 

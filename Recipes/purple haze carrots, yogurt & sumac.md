@@ -5,7 +5,7 @@
 ## Ingredients
 
 * 1 lb young purple haze carrots, with tops attached
-* 1 1/2 cup Labneh (see: )
+* 1 1/2 cup [Labneh](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/yogurt%20and%20labneh.md) 
 * 2 tbsp evoo
 * 1 tbsp ground sumac
 * 1 tsp flaky salt
