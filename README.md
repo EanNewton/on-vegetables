@@ -53,13 +53,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [poached asparagus a la flamande](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/poached%20asparagus%20a%20la%20flamande.md)
 * [bananas, creme fraiche, honey & curry cashews](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Bananas%2C%20creme%20faiche%2C%20honey%20%26%20curry%20cashews.md)
 * [lima bean & sorrel cacio e pepe](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/lima%20bean%20%26%20sorrel%20cacio%20e%20pepe.md)
-* rustic yellow eye bean stew, torn bread
+* [rustic yellow eye bean stew, torn bread](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/rustic%20yellow%20eye%20bean%20stew%2C%20torn%20bread.md)
 * [gold beets, nectarine, hazelnut & oregano](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/gold%20beets%2C%20nectarine%2C%20hazelnut%20%26%20oregano.md)
-* beet gazpacho, mustard, cherries & almond
-* beets & berries
-* beets, greens, figs, blue cheese & walnuts
-* spaetzle, blueberry sauce & corn pudding
-* borage & ricotta dumplings mushroom broth
+* [beet gazpacho, mustard, cherries & almond](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/beet%20gazpacho%2C%20mustard%2C%20cherries%20%26%20almonds.md)
+* [beets & berries](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/beets%20%26%20berries.md)
+* [beets, greens, figs, blue cheese & walnuts](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/beets%2C%20greens%2C%20figs%2C%20blue%20cheese%20%26%20walnuts.md)
+* [spaetzle, blueberry sauce & corn pudding](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/spaetzle%2C%20blueberry%20sauce%2C%20%26%20corn%20pudding.md)
+* [borage & ricotta dumplings mushroom broth](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/borage%20%26%20ricotta%20dumplings%20in%20mushroom%20broth.md)
 * [brassicas a la catalan](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/brassicas%20a%20la%20catalan.md)
 * bread au chocolat
 * [simple broccoli di cicco, garlic, lemon & burrata](https://github.com/EanNewton/on-vegetables/blob/main/Recipes/Simple%20broccoli%20di%20cicco%2C%20garlic%2C%20lemon%20%26%20burrata.md)
@@ -136,29 +136,29 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## blends & salts
 
-* andy's shichimi
-* bbq spice
-* chili salt
-* curry spice
-* fox spice
-* homemade salt
+* [andy's shichimi](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/andy's%20shichimi.md)
+* [bbq spice](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/bbq%20spice.md)
+* [chili salt](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/chili%20salt.md)
+* [curry spice](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/curry%20spice.md)
+* [fox spice](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/fox%20spice.md)
+* [homemade salt](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Blends%20%26%20Salts/homemade%20salt.md)
 
 ## condiments
 
-* aioli
-* beet molasses
-* black olive caramel
-* brittany's pepper jam
-* carrot puree
+* [aioli](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/aioli.md)
+* [beet molasses](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/beet%20molasses.md)
+* [black olive caramel](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/black%20olive%20caramel.md)
+* [brittany's pepper jam](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/brittany's%20pepper%20jam.md)
+* [carrot puree](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/carrot%20puree.md)
 * [fig, pepper skin & riesling jam](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/fig%2C%20pepper%20skin%20%26%20riesling%20jam.md)
-* mayonnaise
-* miso bagna cauda
-* salsa verde
+* [mayonnaise](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/mayonnaise.md)
+* [miso bagna cauda](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/miso%20bagna%20cauda.md)
+* [salsa verde](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/salsa%20verde.md)
 * pesto 
 * sea moss tapenade
 * romesco
 * squash seed gremolata
-* whole-grain mustard
+* [whole-grain mustard](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/whole-grain%20mustard.md)
 * blue cheese dressing
 * lemon vinaigrette a la minute
 * red wine-mustard vinaigrette
