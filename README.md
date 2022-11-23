@@ -196,11 +196,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## fermented
 
-* black garlic
-* black garlic puree
-* black garlic mustard
-* ramp kimchi
-* sauerkrout, rutabaga, or kohlrabi kraut
+* [black garlic](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Fermented/black%20garlic.md)
+* [black garlic puree](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Fermented/black%20garlic%20puree.md)
+* [black garlic mustard](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Fermented/black%20garlic%20mustard.md)
+* [ramp kimchi](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Fermented/ramp%20kimchi.md)
+* [sauerkraut, rutabaga, or kohlrabi kraut](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Fermented/sauerkraut%2C%20rutabaga%2C%20or%20kohlrabi%20kraut.md)
 
 ## nuts
 
