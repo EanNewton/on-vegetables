@@ -154,25 +154,25 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [mayonnaise](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/mayonnaise.md)
 * [miso bagna cauda](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/miso%20bagna%20cauda.md)
 * [salsa verde](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/salsa%20verde.md)
-* pesto 
-* sea moss tapenade
-* romesco
+* [pesto](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/pesto.md) 
+* [sea moss tapenade](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/sea%20moss%20tapenade.md)
+* [romesco](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/romesco.md)
 * squash seed gremolata
 * [whole-grain mustard](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/whole-grain%20mustard.md)
-* blue cheese dressing
-* lemon vinaigrette a la minute
-* red wine-mustard vinaigrette
+* [blue cheese dressing](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/blue%20cheese%20dressing.md)
+* [lemon vinaigrette a la minute](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/lemon%20vinaigrette%20a%20la%20minute.md)
+* [red wine-mustard vinaigrette](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Condiments/red%20wine-mustard%20vinaigrette.md)
 * yellow corn pudding
 
 ## dairy
 
-* calabrian chili butter
-* brown butter
-* creme fraiche
-* horsey goat
+* [calabrian chili butter](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/calabrian%20chili%20butter.md)
+* [brown butter](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/brown%20butter.md)
+* [creme fraiche](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/creme%20fraiche.md)
+* [horsey goat](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/horsey%20goat.md)
 * fresh ricotta & whey
 * vadouvan butter
-* whipped ricotta
+* [whipped ricotta](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/whipped%20ricotta.md)
 * [yogurt and labneh](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dairy/yogurt%20and%20labneh.md)
 
 ## dough
