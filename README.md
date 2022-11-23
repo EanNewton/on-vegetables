@@ -184,15 +184,15 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## dried
 
-* onion top ash
-* breadcrumbs
-* carrot crumble
-* cured egg yolk
-* dried pickle powder
-* corn pulp crackling
-* mushroom bacon
+* [onion top ash](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/onion%20top%20ash.md)
+* [breadcrumbs](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/breadcrumbs.md)
+* [carrot crumble](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/carrot%20crumble.md)
+* [cured egg yolk](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/cured%20egg%20yolk.md)
+* [dried pickle powder](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/dried%20pickle%20powder.md)
+* [corn pulp crackling](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/corn%20pulp%20crackling.md)
+* [mushroom bacon](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/mushroom%20bacon.md)
 * beet soil
-* garlic powder
+* [garlic powder](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Dried/garlic%20powder.md)
 
 ## fermented
 
