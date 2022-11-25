@@ -204,10 +204,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## nuts
 
-* bbq nuts
-* curry cashews
-* frosted nuts
-* lavender almonds
+* [bbq nuts](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/bbq%20nuts.md)
+* [curry cashews](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/curry%20cashews.md)
+* [frosted nuts](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/frosted%20nuts.md)
+* [lavender almonds](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/lavendar%20almonds.md)
 * [pine nut pudding](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Nuts/pine%20nut%20pudding.md)
 
 ## pickled
