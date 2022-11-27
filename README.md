@@ -212,10 +212,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## pickled
 
-* pickled green garlic / pickled ramps
-* dill pickles
-* green tomato preserves
-* mushroom conserva
+* [pickled green garlic / pickled ramps](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Pickled/pickled%20green%20garlic%20%20pickled%20ramps.md)
+* [dill pickles](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Pickled/dill%20pickles.md)
+* [green tomato preserves](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Pickled/green%20tomato%20preserves.md)
+* [mushroom conserva](https://github.com/EanNewton/on-vegetables/blob/main/Larder/Pickled/mushroom%20conserva.md)
 * nasturtium capers
 * pickled red onion
 * preserved lemon
